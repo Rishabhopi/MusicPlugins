@@ -30,20 +30,20 @@ async def start(_, msg):
           InlineKeyboardButton("ᴀᴅᴅ ᴍᴇ", url=f"https://t.me/{app.username}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("ᴄʜᴧᴍᴘᴜ", url="https://t.me/TheChampu"),
-          InlineKeyboardButton("sʜɪᴠᴀɴsʜᴜ", url="https://t.me/TheShivanshu"),
+          InlineKeyboardButton("Update", url="https://t.me/ur_support07"),
+          InlineKeyboardButton("Rishu", url="https://t.me/rishu1286"),
           ],
                [
-                InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/itsmeshivanshu"),
+                InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/rishu1286"),
 
 ],
 [
-              InlineKeyboardButton("ᴍᴜsɪᴄ", url=f"https://github.com/ChampuXD/ChampuMusic"),
-              InlineKeyboardButton("ᴘʟᴜɢɪɴs", url=f"https://github.com/TheChampu/MusicPlugins"),
+              InlineKeyboardButton("ᴍᴜsɪᴄ", url=f"https://github.com/"),
+              InlineKeyboardButton("ᴘʟᴜɢɪɴs", url=f"https://github.com/"),
               ],
               [
-              InlineKeyboardButton("ᴍᴀɴᴀɢᴍᴇɴᴛ", url=f"https://github.com/ChampuXD/ChampuXManagment"),
-InlineKeyboardButton("sᴛʀɪɴɢ", url=f"https://github.com/ChampuXD/ChampuXString"),
+              InlineKeyboardButton("ᴍᴀɴᴀɢᴍᴇɴᴛ", url=f"https://github.com/"),
+InlineKeyboardButton("sᴛʀɪɴɢ", url=f"https://github.com/"),
 ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
