@@ -188,7 +188,7 @@ async def instagram_reel(client, message):
     if len(message.command) == 2:
         url = message.command[1]
         response = requests.post(
-            f"https://lexica-api.vercel.app/download/instagram?url={url}"
+            f"https://rishuxinsta.hazex.workers.dev/?url={url}"
         )
         data = response.json()
 
